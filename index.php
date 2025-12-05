@@ -1,5 +1,5 @@
 <?php
-$title = "Selamat Datang di Website";
+$title = "Selamat Datang di Website Safitri";
 $desc  = "Ini adalah halaman index.php sederhana.";
 ?>
 <!DOCTYPE html>
